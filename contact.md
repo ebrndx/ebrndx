@@ -1,21 +1,21 @@
 ---
-layout: default
+layout: page
 title: Contato
+subtitle: Vamos conversar sobre dados e automação?
 ---
 
-# Contato
-
-Quer conversar sobre dados, automação ou trocar ideias sobre arquitetura analítica?
+Quer trocar ideias sobre **dados**, **automação** ou **arquitetura analítica**?
 
 ## Onde me encontrar
 
-💼 **LinkedIn:** [linkedin.com/in/eduardobernardo](https://www.linkedin.com/in/eduardobernardo/)
-
-🐙 **GitHub:** [github.com/ebrndx](https://github.com/ebrndx)
+<div style="font-size: 1.2em; line-height: 2em;">
+💼 <a href="https://www.linkedin.com/in/eduardobernardo/" target="_blank">LinkedIn</a><br>
+🐙 <a href="https://github.com/ebrndx" target="_blank">GitHub</a>
+</div>
 
 ---
 
-## Interesses
+## Interesses atuais
 
 Atualmente explorando:
 - Automação de pipelines de dados
