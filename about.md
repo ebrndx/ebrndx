@@ -4,13 +4,13 @@ title: Sobre
 subtitle: Data/Analytics Engineer com 14+ anos de experiência
 ---
 
-# Sobre mim
-
-Data/Analytics Engineer com **14+ anos de experiência** em Web Analytics e Marketing Digital, com foco em **BI & Marketing Analytics**. 
+Data/Analytics Engineer com foco em **BI & Marketing Analytics**. 
 
 Construo soluções de ponta a ponta: da coleta e integração de dados (APIs, plataformas de mídia) até a entrega em dashboards operacionais, com governança, automação e observabilidade.
 
 Atualmente lidero uma equipe de 15 profissionais de Web & Data Analytics na ID\TBWA, com foco em coleta, transformação e visualização de dados para otimização de canais de mídia digital. Mais recentemente, tenho liderado iniciativas que aplicam inteligência artificial e automação de processos ao dia a dia da operação: integração com APIs de plataformas de mídia, desenvolvimento de ferramentas internas para padronização de taxonomias (Lexicon), sistemas de alertas automatizados (Guardião) e migração de processos de Sheets para arquiteturas escaláveis em BigQuery.
+
+---
 
 ## O que eu entrego
 
@@ -37,19 +37,51 @@ Atualmente lidero uma equipe de 15 profissionais de Web & Data Analytics na ID\T
 
 ## Experiência
 
-**Diretor de Business Intelligence** - ID\TBWA  
-Dez 2021 - Atual · São Paulo
+### Diretor de Business Intelligence - ID\TBWA
+**Dez 2021 - Atual · São Paulo**
 
 Liderança de equipe de 15 especialistas em Web & Data Analytics, responsável pela coleta, tratamento, modelagem e visualização de dados voltados à otimização de canais de mídia digital.
 
 **Principais entregas técnicas:**
 - Arquitetura e implementação de pipelines de dados para operações de mídia digital (30+ dashboards diários)
-- Governança de taxonomia e qualidade de dados (projeto Lexicon: plataforma low-code com Power Apps, Power Automate, SharePoint e BigQuery)
+- Governança de taxonomia e qualidade de dados (projeto Lexicon: plataforma low-code com Power Apps, Power Automate, SharePoint)
 - Sistema de alertas automatizados para monitoramento de performance (Guardião: extensão Chrome + BigQuery + Teams)
 - Migração de processos de Sheets para BigQuery com arquitetura Medallion (Bronze/Silver/Gold)
 - Integração com APIs de plataformas de mídia (Meta Graph API, Google Ads API) com AI-assisted coding
 - Automação de relatórios e processos operacionais (Power Platform + Python)
 - Dashboards operacionais em Looker Studio consumindo BigQuery para 50+ usuários
+
+---
+
+### Gerente de Business Intelligence - ID\TBWA
+**Jul 2020 - Nov 2021 · São Paulo**
+
+Gestão do time de Web & Data Analytics dedicado à Claro Brasil, liderando 6 profissionais focados em estratégia, modelagem e visualização de dados.
+
+---
+
+### Gerente de Mídia & Business Intelligence - Grupo TV1
+**Set 2017 - Jun 2020 · São Paulo**
+
+Gestão de equipe multidisciplinar nas áreas de mídia, BI e SEO. Planejamento, execução e análise de campanhas de branding e performance.
+
+**Clientes:** Agro Bayer, Eventbrite, Gol Linhas Aéreas, Localiza, Mobil, Vivara
+
+---
+
+### Especialista de Data Intelligence - Ogilvy Brasil
+**Dez 2015 - Ago 2017 · São Paulo**
+
+Atuação consultiva e analítica com foco na definição de KPIs, análise de campanhas e otimização de performance.
+
+**Clientes:** Burger King, Cataflam PRO, Citi Bank, Jac Motors, Advil, Roche, Calvin Klein, Faber Castell
+
+---
+
+### Coordenador de Mídia & BI - Multisolution
+**Dez 2013 - Nov 2015 · São Paulo**
+
+Coordenação das áreas de mídia e inteligência de dados, incluindo planejamento de campanhas e análise de performance.
 
 ---
 
@@ -95,7 +127,7 @@ Instituto Mauá de Tecnologia - 2007-2010
 - **Plataformas:** Meta Ads, Google Ads, GA4, AppsFlyer, CM360
 - **Pacing:** Diarização de metas, monitoramento de investimento
 - **Tracking:** UTMs, taxonomia, qualidade de tagging
-- **Atribuição:** Modelos de atribuição multi-touch, MMM
+- **Atribuição:** Modelos de atribuição multi-touch
 
 ### Observability & Governança
 - **Alertas:** Detecção de anomalias, variações, discrepâncias
@@ -109,20 +141,3 @@ Instituto Mauá de Tecnologia - 2007-2010
 
 **Português:** Nativo  
 **Inglês:** Fluente (conversação e escrita)
-
----
-
-## Interesses Atuais
-
-- Event-driven architectures para analytics em tempo real
-- ML aplicado a detecção de anomalias e forecasting
-- Automação de processos analíticos end-to-end
-- Observability e DataOps para times de analytics
-- AI-assisted coding para acelerar desenvolvimento de pipelines e ferramentas
-
----
-
-## Contato
-
-💼 [LinkedIn](https://www.linkedin.com/in/eduardobernardo/)  
-🐙 [GitHub](https://github.com/ebrndx)
