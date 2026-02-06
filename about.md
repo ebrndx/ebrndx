@@ -1,8 +1,7 @@
 ---
-layout: single
-title: "Sobre"
-permalink: /about/
-author_profile: true
+layout: page
+title: Sobre
+subtitle: Data/Analytics Engineer com 14+ anos de experiência
 ---
 
 # Sobre mim
