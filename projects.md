@@ -4,48 +4,44 @@ title: Projetos
 subtitle: Soluções end-to-end em dados, automação e governança
 ---
 
-## Lexicon: Plataforma de Governança de Taxonomia
+## [Lexicon: Plataforma de Governança de Taxonomia](/projects/lexicon/)
 
-Plataforma low-code para padronizar nomenclaturas de campanhas, validar dados na origem e automatizar aprovações.
+Plataforma low-code que reduziu erros de taxonomia em **85%** e eliminou 40 planilhas compartilhadas.
 
-**Stack:** Power Apps · Power Automate · SharePoint · Teams
-
-**Impacto:** 85% de redução em erros, eliminação de 12 planilhas compartilhadas, fonte única de verdade para 50+ usuários.
+**Stack:** Power Apps · Power Automate · SharePoint · Teams  
+**Impacto:** Fonte única de verdade para 70+ usuários, tempo de aprovação de 3 dias para 4 horas
 
 [Ver case completo →](/projects/lexicon/){: .btn .btn-primary}
 
 ---
 
-## Guardião: Validação de Budgets de Mídia
+## [Guardião: Validação de Budgets de Mídia](/projects/guardiao/)
 
 Extensão Chrome que monitora campos de orçamento em Meta Ads e Google Ads em tempo real, alertando quando valores ultrapassam limites definidos.
 
-**Stack:** Chrome Extension (Manifest v3) · JavaScript
-
-**Impacto:** Zerou erros de budget de mídia na agência.
+**Stack:** Chrome Extension (Manifest v3) · JavaScript  
+**Impacto:** Zerou erros de budget de mídia na agência
 
 [Ver case completo →](/projects/guardiao/){: .btn .btn-primary}
 
 ---
 
-## Pipeline BigQuery: Migração e Arquitetura Medallion
+## [Pipeline BigQuery: Migração e Arquitetura Medallion](/projects/pipeline-bq/)
 
-Substituição de Sheets por arquitetura escalável em BigQuery com camadas Bronze, Silver e Gold.
+Substituição de Sheets por arquitetura escalável em BigQuery com camadas Bronze/Silver/Gold.
 
-**Stack:** BigQuery · Supermetrics · Python
-
-**Impacto:** Confiabilidade, performance e escala para analytics de mídia.
+**Stack:** BigQuery · Supermetrics · Python  
+**Impacto:** Confiabilidade, performance e escala para analytics de mídia
 
 [Ver case completo →](/projects/pipeline-bq/){: .btn .btn-primary}
 
 ---
 
-## Pipeline Graph API: Coleta Automatizada de Dados Meta
+## [Pipeline Graph API: Coleta Automatizada de Dados Meta](/projects/graph-api/)
 
-Pipeline em Google Apps Script que coleta métricas detalhadas de Facebook Pages e Instagram via Meta Graph API (v24.0) e armazena no BigQuery com deduplicação e particionamento.
+Pipeline em Google Apps Script que coleta métricas detalhadas de Facebook Pages e Instagram via Meta Graph API e armazena no BigQuery.
 
-**Stack:** Google Apps Script · Meta Graph API · BigQuery
-
-**Impacto:** Coleta automatizada de 50+ métricas por publicação, substituindo exportações manuais e conectores pagos.
+**Stack:** Google Apps Script · Meta Graph API · BigQuery  
+**Impacto:** Coleta automatizada de 50+ métricas por publicação, substituindo exportações manuais
 
 [Ver case completo →](/projects/graph-api/){: .btn .btn-primary}
