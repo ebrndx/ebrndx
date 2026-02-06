@@ -1,28 +1,22 @@
 # Site settings
 title: Eduardo Bernardo
+author: Eduardo Bernardo
 description: Data/Analytics Engineer | BI & Marketing Analytics | Pipelines, Modeling, Automation, Observability
 baseurl: ""
 url: "https://ebrndx.github.io"
 
-# Author
-author:
-  name: Eduardo Bernardo
-  email: 
-  github: ebrndx
-  linkedin: eduardobernardo
+# Avatar - pode adicionar depois (coloca uma foto sua quadrada)
+# avatar: "/assets/img/avatar.jpg"
 
-# Navigation
+# Navbar links
 navbar-links:
-  Sobre: "about"
   Projetos: "projects"
+  Sobre: "about"
   Contato: "contact"
 
-# Avatar/logo
-avatar: "/assets/img/avatar.jpg"  # pode adicionar depois ou deixar sem
-
-# Social
+# Social links
 social-network-links:
-  email: 
+  email: # deixa vazio
   github: ebrndx
   linkedin: eduardobernardo
 
@@ -32,30 +26,15 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+timezone: America/Sao_Paulo
 
 # Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-feed
 
-# Exclude
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - screenshot.png
-  - docs/
-
-# Output
-timezone: "America/Sao_Paulo"
-
-# Beautiful Jekyll Configs
+# Beautiful Jekyll settings
 navbar-col: "#FFFFFF"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
@@ -68,5 +47,48 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
-# Google Analytics (opcional - adiciona depois)
-# gtag: "G-XXXXXXXXXX"
+# Excerpt length
+excerpt_length: 50
+
+# Share buttons
+share-links-active:
+  twitter: false
+  facebook: false
+  linkedin: true
+
+# Comments - desabilitado
+disqus: ""
+
+# Google Analytics - pode adicionar depois
+# google_analytics: "G-XXXXXXXXXX"
+
+# Default YAML front matter
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show-avatar: false
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      show-avatar: false
+      comments: false
+
+# Exclude
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+# Markdown settings
+kramdown:
+  input: GFM
