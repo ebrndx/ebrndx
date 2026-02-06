@@ -31,10 +31,10 @@ Modelagem · Auditoria · Qualidade · Alertas automatizados
 
 ### [Lexicon: Plataforma de Governança de Taxonomia](/projects/lexicon/)
 
-Plataforma low-code que reduziu erros de taxonomia em **85%** e eliminou 12 planilhas compartilhadas.
+Plataforma low-code que reduziu erros de taxonomia em **85%** e eliminou 40 planilhas compartilhadas.
 
 **Stack:** Power Apps · Power Automate · SharePoint · Teams  
-**Impacto:** Fonte única de verdade para 50+ usuários, tempo de aprovação de 3 dias para 4 horas
+**Impacto:** Fonte única de verdade para 70+ usuários, tempo de aprovação de 3 dias para 4 horas
 
 [Ver case completo →](/projects/lexicon/){: .btn .btn-primary}
 

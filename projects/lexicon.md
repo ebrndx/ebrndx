@@ -56,7 +56,7 @@ A escolha por Power Platform foi pragmática: o time já operava no Microsoft 36
 **Impacto operacional:**
 - ~120 horas economizadas por mês
 - Onboarding de novos analistas: de 2 semanas para 3 dias
-- Fonte única de verdade para 50+ usuários
+- Fonte única de verdade para 80+ usuários
 
 ---
 
