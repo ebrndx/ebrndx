@@ -24,6 +24,8 @@ Extensão Chrome que monitora campos de orçamento em Meta Ads e Google Ads em t
 
 **Impacto:** Zerou erros de budget de mídia na agência.
 
+[Ver case completo →](/projects/guardiao/){: .btn .btn-primary}
+
 ---
 
 ## Pipeline BigQuery: Migração e Arquitetura Medallion
@@ -34,7 +36,7 @@ Substituição de Sheets por arquitetura escalável em BigQuery com camadas Bron
 
 **Impacto:** Confiabilidade, performance e escala para analytics de mídia.
 
-*[Em construção]*
+[Ver case completo →](/projects/pipeline-bq/){: .btn .btn-primary}
 
 ---
 
