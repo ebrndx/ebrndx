@@ -1,63 +1,58 @@
 ---
-layout: home
-title: Eduardo Bernardo
-subtitle: Data/Analytics Engineer | BI & Marketing Analytics
+layout: page
+title: Projetos
+subtitle: Soluções end-to-end em dados, automação e governança
 ---
 
-Especializado em construir **pipelines de dados**, **modelagem**, **automação** e **observabilidade** para operações de mídia digital e analytics.
+## Lexicon: Plataforma de Governança de Taxonomia
 
-## Stack Principal
+![Lexicon](/assets/img/lexicon-preview.jpg){: .img-fluid}
 
-**Dados & Analytics**  
-BigQuery · SQL · Looker Studio · Supermetrics
+Plataforma low-code para padronizar nomenclaturas de campanhas, validar dados na origem e automatizar aprovações.
 
-**Automação & Low-Code**  
-Power Platform (Apps, Automate) · Python · APIs REST
+**Stack:** Power Apps, Power Automate, SharePoint, Teams
 
-**Governança & Observability**  
-Modelagem de dados · Auditoria · Qualidade · Alertas automatizados
+**Impacto:**
+- 85% de redução em erros de taxonomia
+- Eliminação de 12 planilhas compartilhadas
+- Tempo de aprovação: de 3 dias para 4 horas
 
----
-
-## Projetos em Destaque
-
-### [Lexicon: Plataforma de Governança de Taxonomia](/projects/lexicon/)
-
-Plataforma low-code que reduziu erros de taxonomia em **85%** e eliminou **12 planilhas** compartilhadas.
-
-**Stack:** Power Apps, Power Automate, SharePoint, Teams  
-**Impacto:** Fonte única de verdade para 50+ usuários, tempo de aprovação de 3 dias para 4 horas
-
-[Ver case completo →](/projects/lexicon/){: .btn .btn-primary}
+[Ver case completo →](/projects/lexicon/){: .btn .btn-success}
 
 ---
 
-### [Guardião: Sistema de Alertas Automatizados](/projects/guardiao/)
+## Guardião: Sistema de Alertas Automatizados
 
-Extensão Chrome para monitoramento em tempo real de performance e integridade de dados de mídia.
+![Guardião](/assets/img/guardiao-preview.jpg){: .img-fluid}
 
-**Stack:** Chrome Extension, BigQuery, Teams  
-**Impacto:** Detecção proativa de variações em custo, conversões, pacing e tracking
+Extensão Chrome para monitoramento em tempo real de variações e anomalias em custo, conversões e tracking.
 
-*Em construção*
+**Stack:** Chrome Extension, BigQuery, Teams
+
+**Impacto:** Detecção proativa de problemas antes de impactar resultados
+
+*[Em construção]*
 
 ---
 
-### [Pipeline BigQuery: Migração e Arquitetura Medallion](/projects/pipeline-bq/)
+## Pipeline BigQuery: Migração e Arquitetura Medallion
 
-Substituição de Google Sheets por arquitetura escalável em BigQuery com camadas Bronze, Silver e Gold.
+![Pipeline](/assets/img/pipeline-preview.jpg){: .img-fluid}
 
-**Stack:** BigQuery, Supermetrics, Looker Studio, Python  
+Substituição de Sheets por arquitetura escalável em BigQuery com camadas Bronze, Silver e Gold.
+
+**Stack:** BigQuery, Supermetrics, Looker Studio, Python
+
 **Impacto:** Confiabilidade, performance e escala para analytics de mídia
 
-*Em construção*
+*[Em construção]*
 
 ---
 
-## Experiência
+## Integrações API
 
-**14+ anos** em Web Analytics e Marketing Digital, com passagens por **ID\TBWA**, **Ogilvy**, **Grupo TV1**.
+Automação de coletas e integrações com plataformas de mídia (Meta, Google Ads).
 
-Atualmente lidero equipe de **15 profissionais** de Web & Data Analytics na ID\TBWA.
+**Stack:** Python, APIs REST, Cloud Functions
 
-[Saiba mais sobre mim →](/about/){: .btn .btn-info}
+*[Em construção]*
