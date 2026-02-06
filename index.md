@@ -2,10 +2,7 @@
 layout: home
 title: Eduardo Bernardo
 subtitle: Data/Analytics Engineer | BI & Marketing Analytics
-cover-img:
-  - "/assets/img/header-1.jpg" : "Dados"
-  - "/assets/img/header-2.jpg" : "Analytics"
-  - "/assets/img/header-3.jpg" : "Automação"
+hero-bg-color: "#555555"
 ---
 
 Especializado em construir **pipelines de dados, modelagem, automação e observabilidade** para operações de mídia digital e analytics.
@@ -44,8 +41,10 @@ Plataforma low-code que reduziu erros de taxonomia em **85%** e eliminou 40 plan
 
 Extensão Chrome que monitora campos de orçamento em Meta Ads e Google Ads em tempo real, alertando quando valores ultrapassam limites definidos.
 
-**Stack:** Chrome Extension (Manifest v3) · JavaScript
+**Stack:** Chrome Extension (Manifest v3) · JavaScript  
 **Impacto:** Zerou erros de budget de mídia na agência
+
+[Ver case completo →](/projects/guardiao/){: .btn .btn-primary}
 
 ---
 
@@ -56,13 +55,5 @@ Substituição de Sheets por arquitetura escalável em BigQuery com camadas Bron
 **Stack:** BigQuery · Supermetrics · Python  
 **Impacto:** Confiabilidade, performance e escala para analytics de mídia
 
-*[Em construção]*
+[Ver case completo →](/projects/pipeline-bq/){: .btn .btn-primary}
 
----
-
-## Contato
-
-Quer conversar sobre dados, automação ou trocar ideias sobre arquitetura analítica?
-
-💼 [LinkedIn](https://www.linkedin.com/in/eduardobernardo/){: .btn .btn-primary}  
-🐙 [GitHub](https://github.com/ebrndx){: .btn}

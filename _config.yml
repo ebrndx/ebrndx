@@ -5,6 +5,9 @@ description: Data/Analytics Engineer | BI & Marketing Analytics | Pipelines, Mod
 baseurl: ""
 url: "https://ebrndx.github.io"
 
+# Logo no navbar (substitui o title texto)
+title-img: "/assets/img/logo.jpg"
+
 # Avatar - pode adicionar depois (coloca uma foto sua quadrada)
 # avatar: "/assets/img/avatar.jpg"
 
@@ -87,6 +90,10 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+
+# Custom CSS
+site-css:
+  - "/assets/css/custom.css"
 
 # Markdown settings
 kramdown:

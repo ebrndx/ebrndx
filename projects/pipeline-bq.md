@@ -2,6 +2,7 @@
 layout: page
 title: "Pipeline BigQuery: Migração e Arquitetura Medallion"
 subtitle: "Substituição de planilhas por arquitetura escalável em BigQuery"
+permalink: /projects/pipeline-bq/
 ---
 
 [← Voltar para Projetos](/projects/)

@@ -2,6 +2,7 @@
 layout: page
 title: "Lexicon: Plataforma de Governança de Taxonomia"
 subtitle: "85% de redução em erros e eliminação de planilhas compartilhadas"
+permalink: /projects/lexicon/
 ---
 
 [← Voltar para Projetos](/projects/)
