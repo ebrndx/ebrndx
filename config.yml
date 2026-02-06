@@ -1,115 +1,72 @@
-# Site Settings
-title: "Eduardo Bernardo"
-title_separator: "|"
-subtitle: "Data/Analytics Engineer"
-name: "Eduardo Bernardo"
-description: "BI & Marketing Analytics | Pipelines, Modeling, Automation, Observability"
-url: "https://ebrndx.github.io"
+# Site settings
+title: Eduardo Bernardo
+description: Data/Analytics Engineer | BI & Marketing Analytics | Pipelines, Modeling, Automation, Observability
 baseurl: ""
-repository: "ebrndx/ebrndx.github.io"
+url: "https://ebrndx.github.io"
+
+# Author
+author:
+  name: Eduardo Bernardo
+  email: 
+  github: ebrndx
+  linkedin: eduardobernardo
+
+# Navigation
+navbar-links:
+  Sobre: "about"
+  Projetos: "projects"
+  Contato: "contact"
+
+# Avatar/logo
+avatar: "/assets/img/avatar.jpg"  # pode adicionar depois ou deixar sem
+
+# Social
+social-network-links:
+  email: 
+  github: ebrndx
+  linkedin: eduardobernardo
 
 # Theme
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: daattali/beautiful-jekyll@6.0.1
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:categories/:title/
+permalink: /:year-:month-:day-:title/
 paginate: 5
-timezone: America/Sao_Paulo
 
 # Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
+  - jekyll-seo-tag
 
-# Site Author
-author:
-  name: "Eduardo Bernardo"
-  avatar: # pode adicionar depois
-  bio: "Data/Analytics Engineer | 14+ anos em BI & Marketing Analytics"
-  location: "São Paulo, Brasil"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/eduardobernardo/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ebrndx"
-
-# Site Footer
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/eduardobernardo/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ebrndx"
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
+# Exclude
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
+  - CHANGELOG.md
+  - CNAME
   - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
+  - Gemfile.lock
   - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - Rakefile
-  - README
-  - tmp
+  - README.md
+  - screenshot.png
+  - docs/
 
-# Archives
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# Output
+timezone: "America/Sao_Paulo"
+
+# Beautiful Jekyll Configs
+navbar-col: "#FFFFFF"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+
+# Google Analytics (opcional - adiciona depois)
+# gtag: "G-XXXXXXXXXX"
