@@ -38,10 +38,12 @@ Substituição de Sheets por arquitetura escalável em BigQuery com camadas Bron
 
 ---
 
-## Integrações API
+## Pipeline Graph API: Coleta Automatizada de Dados Meta
 
-Automação de coletas e integrações com plataformas de mídia (Meta, Google Ads) usando AI-assisted coding.
+Pipeline em Google Apps Script que coleta métricas detalhadas de Facebook Pages e Instagram via Meta Graph API (v24.0) e armazena no BigQuery com deduplicação e particionamento.
 
-**Stack:** Python · APIs REST · Cloud Functions
+**Stack:** Google Apps Script · Meta Graph API · BigQuery
 
-*[Em construção]*
+**Impacto:** Coleta automatizada de 50+ métricas por publicação, substituindo exportações manuais e conectores pagos.
+
+[Ver case completo →](/projects/graph-api/){: .btn .btn-primary}

@@ -8,8 +8,8 @@ url: "https://ebrndx.github.io"
 # Logo no navbar (substitui o title texto)
 title-img: "/assets/img/logo.jpg"
 
-# Avatar - pode adicionar depois (coloca uma foto sua quadrada)
-# avatar: "/assets/img/avatar.jpg"
+# Avatar
+avatar: "/assets/img/avatar.jpg"
 
 # Navbar links
 navbar-links:
@@ -71,13 +71,13 @@ defaults:
       path: ""
       type: "pages"
     values:
-      show-avatar: false
+      show-avatar: true
   -
     scope:
       path: ""
       type: "posts"
     values:
-      show-avatar: false
+      show-avatar: true
       comments: false
 
 # Exclude

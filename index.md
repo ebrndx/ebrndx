@@ -7,7 +7,7 @@ hero-bg-color: "#555555"
 
 Oi, eu sou o Eduardo.
 
-Sou especializado em construir **pipelines de dados, modelagem, automação e observabilidade** para operações de mídia digital e analytics.
+Sou especialista em construir **pipelines de dados, modelagem, automação e observabilidade** para operações de mídia digital e analytics.
 
 14+ anos de experiência construindo soluções end-to-end: da coleta e integração de dados até dashboards operacionais, com governança e qualidade.
 
@@ -59,3 +59,13 @@ Substituição de Sheets por arquitetura escalável em BigQuery com camadas Bron
 
 [Ver case completo →](/projects/pipeline-bq/){: .btn .btn-primary}
 
+---
+
+### [Pipeline Graph API: Coleta Automatizada de Dados Meta](/projects/graph-api/)
+
+Pipeline em Google Apps Script que coleta métricas detalhadas de Facebook Pages e Instagram via Meta Graph API e armazena no BigQuery.
+
+**Stack:** Google Apps Script · Meta Graph API · BigQuery  
+**Impacto:** Coleta automatizada de 50+ métricas por publicação, substituindo exportações manuais
+
+[Ver case completo →](/projects/graph-api/){: .btn .btn-primary}
