@@ -37,9 +37,9 @@ plugins:
   - jekyll-feed
 
 # Beautiful Jekyll settings
-navbar-col: "#555555"
+navbar-col: "#000000"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#555555"
+navbar-border-col: "#000000"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#333333"
