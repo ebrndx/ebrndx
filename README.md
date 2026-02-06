@@ -1,16 +1,34 @@
-## Hi there 👋
-# Portfolio
-<!--
-**ebrndx/ebrndx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ebrndx.github.io
 
-Here are some ideas to get you started:
+Site pessoal e portfolio profissional de Eduardo Bernardo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Live:** [ebrndx.github.io](https://ebrndx.github.io)
+
+## Stack
+
+- Jekyll (GitHub Pages)
+- Beautiful Jekyll theme
+- Markdown / kramdown
+
+## Estrutura
+
+```
+index.md          # Home
+about.md          # Sobre
+contact.md        # Contato
+projects.md       # Lista de projetos
+projects/         # Cases detalhados
+  lexicon.md
+  guardiao.md
+  pipeline-bq.md
+_config.yml       # Configuracao Jekyll + tema
+assets/img/       # Imagens do site
+```
+
+## Desenvolvimento local
+
+```bash
+gem install bundler jekyll
+bundle install
+bundle exec jekyll serve
+```
