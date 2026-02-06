@@ -1,6 +1,14 @@
 ---
-layout: default
+layout: single
 title: "Lexicon: Plataforma de Governança de Taxonomia"
+permalink: /projects/lexicon/
+author_profile: false
+toc: true
+toc_label: "Índice"
+toc_icon: "list"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 ---
 
 **Navegação:** [Home](/) | [Projetos](/projects/) | [Sobre](/about/) | [Contato](/contact/)
