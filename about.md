@@ -4,11 +4,11 @@ title: Sobre
 subtitle: Data/Analytics Engineer com 14+ anos de experiência
 ---
 
-Data/Analytics Engineer com foco em **BI & Marketing Analytics**. 
+Olá, tudo bem? Eu sou o Eduardo.
 
 Construo soluções de ponta a ponta: da coleta e integração de dados (APIs, plataformas de mídia) até a entrega em dashboards operacionais, com governança, automação e observabilidade.
 
-Atualmente lidero uma equipe de 15 profissionais de Web & Data Analytics na ID\TBWA, com foco em coleta, transformação e visualização de dados para otimização de canais de mídia digital. Mais recentemente, tenho liderado iniciativas que aplicam inteligência artificial e automação de processos ao dia a dia da operação: integração com APIs de plataformas de mídia, desenvolvimento de ferramentas internas para padronização de taxonomias (Lexicon), sistemas de alertas automatizados (Guardião) e migração de processos de Sheets para arquiteturas escaláveis em BigQuery.
+Hoje lidero uma equipe de 15 profissionais de Web & Data Analytics, com foco em coleta, transformação e visualização de dados para otimização de canais de mídia digital. Também conduzo projetos de atribuição de mídia, automação de relatórios e programas de desenvolvimento técnico e de carreira dentro do time. Mais recentemente, tenho liderado iniciativas que aplicam inteligência artificial e automação de processos ao dia a dia da operação, desde integrações com APIs de plataformas de mídia até o desenvolvimento de ferramentas internas com apoio de AI-assisted coding.
 
 ---
 
@@ -57,31 +57,6 @@ Liderança de equipe de 15 especialistas em Web & Data Analytics, responsável p
 **Jul 2020 - Nov 2021 · São Paulo**
 
 Gestão do time de Web & Data Analytics dedicado à Claro Brasil, liderando 6 profissionais focados em estratégia, modelagem e visualização de dados.
-
----
-
-### Gerente de Mídia & Business Intelligence - Grupo TV1
-**Set 2017 - Jun 2020 · São Paulo**
-
-Gestão de equipe multidisciplinar nas áreas de mídia, BI e SEO. Planejamento, execução e análise de campanhas de branding e performance.
-
-**Clientes:** Agro Bayer, Eventbrite, Gol Linhas Aéreas, Localiza, Mobil, Vivara
-
----
-
-### Especialista de Data Intelligence - Ogilvy Brasil
-**Dez 2015 - Ago 2017 · São Paulo**
-
-Atuação consultiva e analítica com foco na definição de KPIs, análise de campanhas e otimização de performance.
-
-**Clientes:** Burger King, Cataflam PRO, Citi Bank, Jac Motors, Advil, Roche, Calvin Klein, Faber Castell
-
----
-
-### Coordenador de Mídia & BI - Multisolution
-**Dez 2013 - Nov 2015 · São Paulo**
-
-Coordenação das áreas de mídia e inteligência de dados, incluindo planejamento de campanhas e análise de performance.
 
 ---
 

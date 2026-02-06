@@ -16,15 +16,13 @@ Plataforma low-code para padronizar nomenclaturas de campanhas, validar dados na
 
 ---
 
-## Guardião: Sistema de Alertas Automatizados
+## Guardião: Validação de Budgets de Mídia
 
-Extensão Chrome para monitoramento em tempo real de variações e anomalias em custo, conversões e tracking.
+Extensão Chrome que monitora campos de orçamento em Meta Ads e Google Ads em tempo real, alertando quando valores ultrapassam limites definidos.
 
-**Stack:** Chrome Extension · BigQuery · Teams
+**Stack:** Chrome Extension (Manifest v3) · JavaScript
 
-**Impacto:** Detecção proativa de variações, redução de reatividade operacional.
-
-*[Em construção]*
+**Impacto:** Zerou erros de budget de mídia na agência.
 
 ---
 

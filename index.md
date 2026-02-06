@@ -40,14 +40,12 @@ Plataforma low-code que reduziu erros de taxonomia em **85%** e eliminou 12 plan
 
 ---
 
-### [Guardião: Sistema de Alertas Automatizados](/projects/guardiao/)
+### [Guardião: Validação de Budgets de Mídia](/projects/guardiao/)
 
-Extensão Chrome para monitoramento em tempo real de performance e integridade de dados de mídia.
+Extensão Chrome que monitora campos de orçamento em Meta Ads e Google Ads em tempo real, alertando quando valores ultrapassam limites definidos.
 
-**Stack:** Chrome Extension · BigQuery · Teams  
-**Impacto:** Detecção proativa de variações em custo, conversões, pacing e tracking
-
-*[Em construção]*
+**Stack:** Chrome Extension (Manifest v3) · JavaScript
+**Impacto:** Zerou erros de budget de mídia na agência
 
 ---
 
