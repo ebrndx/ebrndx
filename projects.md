@@ -41,7 +41,7 @@ Substituição de Sheets por arquitetura escalável em BigQuery com camadas Bron
 
 Pipelines em Google Apps Script que coletam dados de social media (Meta Graph API) e atribuição de app (AppsFlyer) diretamente no BigQuery.
 
-**Stack:** Google Apps Script · Meta Graph API · AppsFlyer Master API · BigQuery
+**Stack:** Google Apps Script · Meta Graph API · AppsFlyer Master API · BigQuery  
 **Impacto:** Coleta automatizada de métricas de mídia e atribuição em um único data warehouse, substituindo exportações manuais e conectores pagos
 
 [Ver case completo →](/projects/graph-api/){: .btn .btn-primary}
@@ -52,7 +52,7 @@ Pipelines em Google Apps Script que coletam dados de social media (Meta Graph AP
 
 Crawler Python que coleta preços do Google Shopping e alimenta dashboard de competitividade, cruzando base do cliente com preços de mercado segmentados por tipo de varejista.
 
-**Stack:** Python · Selenium · Pandas · Google Sheets (gspread)
+**Stack:** Python · Selenium · Pandas · Google Sheets (gspread)  
 **Impacto:** Visão por produto de onde o cliente era mais barato ou caro vs. grandes e-commerces, lojas menores e marketplaces internacionais
 
 [Ver case completo →](/projects/crawler-precos/){: .btn .btn-primary}
