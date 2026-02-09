@@ -37,12 +37,12 @@ Substituição de Sheets por arquitetura escalável em BigQuery com camadas Bron
 
 ---
 
-## [Pipeline Graph API: Coleta Automatizada de Dados Meta](/projects/graph-api/)
+## [Pipelines de Integração de APIs: Meta & AppsFlyer](/projects/graph-api/)
 
-Pipeline em Google Apps Script que coleta métricas detalhadas de Facebook Pages e Instagram via Meta Graph API e armazena no BigQuery.
+Pipelines em Google Apps Script que coletam dados de social media (Meta Graph API) e atribuição de app (AppsFlyer) diretamente no BigQuery.
 
-**Stack:** Google Apps Script · Meta Graph API · BigQuery  
-**Impacto:** Coleta automatizada de 50+ métricas por publicação, substituindo exportações manuais
+**Stack:** Google Apps Script · Meta Graph API · AppsFlyer Master API · BigQuery
+**Impacto:** Coleta automatizada de métricas de mídia e atribuição em um único data warehouse, substituindo exportações manuais e conectores pagos
 
 [Ver case completo →](/projects/graph-api/){: .btn .btn-primary}
 
