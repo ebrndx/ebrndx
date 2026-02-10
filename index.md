@@ -15,63 +15,29 @@ Sou especialista em construir **pipelines de dados, modelagem, automação e obs
 
 ## Stack Principal
 
-**Dados & Analytics**  
+**Dados & Analytics**
 BigQuery · SQL · Looker Studio · Supermetrics · ETL/ELT
 
-**Automação & Low-Code**  
+**Automação & Low-Code**
 Power Platform (Apps, Automate) · Python · APIs REST
 
-**Governança & Observability**  
+**Governança & Observability**
 Modelagem · Auditoria · Qualidade · Alertas automatizados
 
 ---
 
-## Projetos em Destaque
+## Projetos
 
-### [Lexicon: Plataforma de Governança de Taxonomia](/projects/lexicon/)
+[Lexicon](/projects/lexicon/) — Governança de taxonomia que reduziu erros em 85% e eliminou planilhas compartilhadas.
 
-Plataforma low-code que reduziu erros de taxonomia em **85%** e eliminou 40 planilhas compartilhadas.
+[Guardião](/projects/guardiao/) — Extensão Chrome que zerou erros de budget em Meta Ads e Google Ads.
 
-**Stack:** Power Apps · Power Automate · SharePoint · Teams
+[Pipeline BigQuery](/projects/pipeline-bq/) — Migração de Sheets para arquitetura medallion em BigQuery.
 
-[Ver case completo →](/projects/lexicon/){: .btn .btn-primary}
+[Integração de APIs](/projects/graph-api/) — Pipelines Meta Graph API e AppsFlyer direto no BigQuery.
 
----
+[Crawler de Preços](/projects/crawler-precos/) — Coleta de preços do Google Shopping para dashboard de competitividade.
 
-### [Guardião: Validação de Budgets de Mídia](/projects/guardiao/)
+[Notifika](/projects/notifika/) — Alertas diários de pacing de mídia por e-mail com severidade por frente.
 
-Extensão Chrome que monitora campos de orçamento em Meta Ads e Google Ads em tempo real, alertando quando valores ultrapassam limites definidos.
-
-**Stack:** Chrome Extension (Manifest v3) · JavaScript
-
-[Ver case completo →](/projects/guardiao/){: .btn .btn-primary}
-
----
-
-### [Pipeline BigQuery: Migração e Arquitetura Medallion](/projects/pipeline-bq/)
-
-Substituição de Sheets por arquitetura escalável em BigQuery com camadas Bronze/Silver/Gold.
-
-**Stack:** BigQuery · Supermetrics · Python
-
-[Ver case completo →](/projects/pipeline-bq/){: .btn .btn-primary}
-
----
-
-### [Pipelines de Integração de APIs: Meta & AppsFlyer](/projects/graph-api/)
-
-Pipelines em Google Apps Script que coletam dados de social media (Meta Graph API) e atribuição de app (AppsFlyer) diretamente no BigQuery.
-
-**Stack:** Google Apps Script · Meta Graph API · AppsFlyer Master API · BigQuery
-
-[Ver case completo →](/projects/graph-api/){: .btn .btn-primary}
-
----
-
-### [Crawler de Preços: Inteligência de Competitividade](/projects/crawler-precos/)
-
-Crawler Python que coleta preços do Google Shopping e alimenta dashboard de competitividade, cruzando base do cliente com preços de mercado segmentados por tipo de varejista.
-
-**Stack:** Python · Selenium · Pandas · Google Sheets (gspread)
-
-[Ver case completo →](/projects/crawler-precos/){: .btn .btn-primary}
+[Ver todos os projetos →](/projects){: .btn .btn-primary}

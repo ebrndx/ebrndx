@@ -56,3 +56,13 @@ Crawler Python que coleta preços do Google Shopping e alimenta dashboard de com
 **Impacto:** Visão por produto de onde o cliente era mais barato ou caro vs. grandes e-commerces, lojas menores e marketplaces internacionais
 
 [Ver case completo →](/projects/crawler-precos/){: .btn .btn-primary}
+
+---
+
+## [Notifika: Alertas de Pacing de Mídia](/projects/notifika/)
+
+Sistema de alertas diários por e-mail que compara gasto real vs. planejado por frente de mídia, com classificação de severidade.
+
+**Stack:** Google Apps Script · BigQuery · E-mail (MailApp)
+
+[Ver case completo →](/projects/notifika/){: .btn .btn-primary}
